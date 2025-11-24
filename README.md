@@ -1,5 +1,5 @@
 # Medication_Reminder-
-Medication Reminder is a simple Python program that lets users add medicines, view the list, and check missed or upcoming doses. It uses functions, lists, and user input with a menu-driven interface. 
+Medication Reminder is a simple Python program that lets users add medicines, view the list, and check missed or upcoming doses. It uses functions, lists, and user input with a menu-driven interface. <br>
 1.Overview<br>
 This is a Python program that helps users keep track of medicines and their scheduled times. It works in the terminal and stores data only while the program is running.<br>
 
